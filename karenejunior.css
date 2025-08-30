@@ -1,0 +1,221 @@
+body {
+  margin: 0;
+  font-family:  Arial, Helvetica, sans-serif;
+  background-color: #f0f8ff;
+  color: #333;
+  text-align: center;
+}
+
+header {
+  background-color: white;
+ padding: 2px;
+  color: #10cffa;
+  font-family: monotype corsiva, amoresa, cursive;
+}
+
+
+  @font-face {
+  font-family: 'Amoresa';
+  src: url('fonts/amoresa.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.flor1 {
+  position: absolute;
+  top: 930px;      /* ajuste conforme necessário */
+  right: 10px;    /* distância do canto direito */
+  margin: 20 px;
+  padding: 0;
+  z-index: 10;
+}
+
+.casaljk {
+
+  font-size: 3.3em;
+  margin: 10px 0;
+  color: black;
+    margin-top: 25px auto;
+  padding: 30px 25px;
+}
+
+.casal {
+  font-size: 1.5em;
+  margin: 5px 0;
+  color: black;
+}
+.casal, h1, h2,.casaljk, h3{
+  font-family: 'Amoresa', cursive;}
+
+header h1 {
+    font-size: 4em;
+  margin-bottom: 10px;
+}
+
+section {
+  padding: 30px 20px;
+}
+
+.mensagem {
+  background-color: white;
+  ;
+}
+
+.confirmar {
+  background-color: #e6f2ff;
+
+}
+
+.detalhes {
+  background-color: #10cffa;
+  box-shadow: #333 2px 2px 5px;
+  color: white;
+  }
+
+  .convida{
+  font-size: 0,8em;
+  margin: 10px 0;
+  color:black
+  }
+
+.button {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 12px 25px;
+  background-color: white;
+  color: #10cffa;
+  text-decoration: none;
+  border-radius: 25px;
+  font-weight: bold;
+  border: #e6f2ff 2px solid;
+  box-shadow: #333 2px 2px 5px;
+}
+
+.button:hover {
+  background-color: #10cffa;
+  color: white;
+  transition: background-color 1s, color 0.3s;
+}
+
+footer {
+  background-color: #10cffa;
+  color: white;
+  padding: 20px;
+  font-size: 0.9em;}
+
+hr {
+  border: none;
+  border-top: 2px solid #10cffa;
+  margin: 20px 0;
+  box-shadow: #333 2px 2px 5px;
+}
+
+.data {
+  font-size: 1.8em;
+  margin: 5px 0;
+  color: #e6f2ff;
+  padding: 0 20px;
+  font-weight: bold;
+  font-family: Arial;
+box-shadow: #e6f2ff 2px 2px 2px;
+  border-top: 2px solid #10cffa;
+    border-radius: 50px;
+  display: block;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 20px;}
+
+  .festa {
+  font-size: 1.3em;
+  margin: 10px 0;
+  font-weight: bold;
+  color: white;
+  font-family: Arial;
+  padding: 30px;
+}
+
+.bencao {   
+    color: black;
+font-family: Arial;
+  font-size: 1.1em;
+     font-weight: bold;}
+  
+
+ h2 {
+  color: #10cffa;
+    font-size: 1.1em;
+    margin: 20px 0;
+  padding: 20px;}
+
+h3{
+  color: white;
+    font-size: 1.5em;
+    margin: 20px 0;
+}
+
+
+   .nomes-casal {
+  display: block;
+  justify-content: flex-end;
+  align-items: center;
+  margin-top: 20px;
+  padding: 0 20px;
+   font-size: 1.2em;
+}
+
+.junior {
+  text-align: center;
+   line-height: 0.7em;
+   color: black;
+   margin-left: auto;
+   margin-right: 0px;
+}
+
+.karen {
+  text-align: center;
+   margin-right: auto;
+    margin-left: 20px;
+line-height: 0.7em;
+   color: black;
+}
+.localiza{
+  font-size: 0.5em;
+  margin: 10px 0;
+  color: white;
+  display: block;
+  font-weight: bold;
+  font-family: Arial;
+  text-align: center;
+    line-height: 0.7em;
+}
+
+a{
+  text-decoration: none;
+  color: #10cffa;
+  font-weight: bold;
+  font-size: 1.2em;
+
+  }
+  a:hover{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    box-shadow: #333 2px 2px px;
+transition: background-color 1s, color 0.3s;
+  }
+
+  .wats{
+    font-size: 1em;
+    margin: 5px 0;
+    display: flexbox;
+    text-align: center;
+    color: #10cffa;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 50px solid #10cffa;
+    background-color: white;
+    padding: 3px;
+    box-shadow: #333 2px 2px 5px;
+
+  }
+  
