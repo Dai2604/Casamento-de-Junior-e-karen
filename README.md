@@ -1,3 +1,2 @@
-theme: casamento_de_junior_e_karen
-title: Junior e Karen
-description: casamento de Júnior e Karen!
+Casamento — HTML, CSS
+Desenvolvi um site responsivo de convite de casamento com design personalizado, estrutura organizada de arquivos, tipografia adaptada para impressão/digital, otimizado para dispositivos móveis
